@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashantsehgal4" target="blank"><img src="https://img.shields.io/twitter/follow/prashantsehgal4?logo=twitter&style=for-the-badge" alt="prashantsehgal4" /></a> </p>
 
-- 🌱 I’m currently learning **FullStack Web Dev Course on Udemy.**
+- 🌱 I’m currently learning **FullStack Web-Dev and UI/UX Design.**
 
 - 💬 Ask me about **Web Dev and UI/UX Design.**
 
